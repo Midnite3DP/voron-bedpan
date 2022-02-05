@@ -1,7 +1,7 @@
 # Voron Bedbay
 A central purge bucket, wago mount, and cover plate for the Voron 2.4
 
-![BedBay GIF](https://media.giphy.com/media/ICmAGDLUbcVwk3xE4B/giphy.gif)
+![BedBay GIF]("https://media.giphy.com/media/ICmAGDLUbcVwk3xE4B/giphy.gif")
 
 _please recommend a better name_
 
