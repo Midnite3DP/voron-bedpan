@@ -16,3 +16,6 @@ BOM
 Note
 * I am small brain unga bunga (this is my first mod)
 * I am voron noob (nothing has been tested properly)
+
+Credits
+* Wago mount (the part where the wagos clip in) was based on https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/deepfriedheroin/v2_bed_wagos
