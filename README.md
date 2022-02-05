@@ -4,7 +4,7 @@ A central purge bucket, wago mount, and cover plate for the Voron 2.4
 ![alt text](https://media.giphy.com/media/ICmAGDLUbcVwk3xE4B/giphy.gif)
 ![alt text](https://media.giphy.com/media/ICmAGDLUbcVwk3xE4B/giphy-downsized.gif)
 ![BedBay GIF](https://media.giphy.com/media/ICmAGDLUbcVwk3xE4B/giphy.gif)
-
+![alt text](https://media.giphy.com/media/ICmAGDLUbcVwk3xE4B/giphy.gif)
 _please recommend a better name_
 
 Printing
